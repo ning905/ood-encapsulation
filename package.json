@@ -1,0 +1,22 @@
+{
+  "name": "ood-encapsulation",
+  "version": "1.0.0",
+  "description": "## Objectives",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ning905/ood-encapsulation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ning905/ood-encapsulation/issues"
+  },
+  "homepage": "https://github.com/ning905/ood-encapsulation#readme",
+  "dependencies": {
+    "jasmine": "^4.2.0"
+  }
+}
